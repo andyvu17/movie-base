@@ -1,0 +1,10 @@
+<h1>Results Page</h1>
+
+<% data.Search.forEach((movie) => { %>
+    <ul>
+        <li><img src="<%= movie.Poster %>"></li>
+        <li><%= movie.Title; %></li>
+    </ul>
+    
+    
+<% }); %>
