@@ -4,7 +4,7 @@ var request = require("request");
 app.set("view engine", "ejs");
 
 app.get("/", (req, res)=>{
-   res.render("main"); 
+   res.render("index"); 
 });
 
 app.get("/results", (req, res) => {
