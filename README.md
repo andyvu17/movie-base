@@ -6,6 +6,6 @@ Features:
 search bar to find movies
 
 
-OMBD movie API
-Node.JS
+OMBD movie API  <br>
+Node.JS          <br>
 Bootstrap
